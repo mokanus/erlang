@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec3fa3ed-d821-4c61-86de-199bab540e94" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/afile_server.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/area_rpc.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/area_server.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circle_proc.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ets_cli.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event_controller.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event_handle.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fac.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goals.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kvs.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitor.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_bank.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name_server.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name_server_new.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime_server.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proc_reg.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rebar3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/records.hrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server1.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server2.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server3.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/splite.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stimer.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walks.erl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2VqllszPszVF9Fu4LesQ7LBwAsz" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/daniel",
+    "settings.editor.selected.configurable": "Erlang External Tools"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
